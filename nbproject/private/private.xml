@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/strategy/phone_strategy/PhoneCameraApp.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/strategy/phone_strategy/phone/CameraPlusApp.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/strategy/phone_strategy/phone/BasicCameraApp.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/strategy/phone_strategy/PhotoWithPhone.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/observer/weather/Observer.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/observer/weather/ForecastDisplay.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/observer/weather/HeatIndexDisplay.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/observer/weather/StatisticsDisplay.java</file>
         </group>
     </open-files>
 </project-private>
