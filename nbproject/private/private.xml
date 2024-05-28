@@ -3,21 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/PizzaStore.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/ClamPizza.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/inheritance/SingletonTestDrive.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/inheritance/CoolerSingleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/SimplePizzaFactory.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/ClassicSingleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/inheritance/Singleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/inheritance/HotterSingleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/StaticSingleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/PizzaTestDrive.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/EnumSingleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/singleton/DoubleCheckLockSingleton.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/Pizza.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/PepperoniPizza.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/factory/CheesePizza.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/MallardDuck.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/TurkeyTestDrive.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/TurkeyAdapter.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/Turkey.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/Duck.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/DuckTestDrive.java</file>
         </group>
     </open-files>
 </project-private>
