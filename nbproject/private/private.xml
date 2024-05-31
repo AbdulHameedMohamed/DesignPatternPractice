@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/MallardDuck.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/TurkeyTestDrive.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/TurkeyAdapter.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/Turkey.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/Duck.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/adapter/DuckTestDrive.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Pizza.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/ToppingDecorator.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/PizzaStore.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/ThickcrustPizza.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Olives.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/ThincrustPizza.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Cheese.java</file>
         </group>
     </open-files>
 </project-private>
