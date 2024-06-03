@@ -5,11 +5,18 @@
         <group>
             <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Pizza.java</file>
             <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/ToppingDecorator.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/SimpleRemoteControl.java</file>
             <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/PizzaStore.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Cheese.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/LightOnCommand.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/GarageDoorOpenCommand.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/RemoteControlTest.java</file>
             <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/ThickcrustPizza.java</file>
             <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Olives.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/Light.java</file>
             <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/ThincrustPizza.java</file>
-            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/decorator/pizza/Cheese.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/Command.java</file>
+            <file>file:/C:/Users/w/OneDrive/Documents/NetBeansProjects/DesignPatternPractice/src/designpatternpractice/command/GarageDoor.java</file>
         </group>
     </open-files>
 </project-private>
